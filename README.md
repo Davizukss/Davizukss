@@ -26,6 +26,6 @@ Oiê! Eu sou o Davizukss
   <a href = "mailto:davivarelladev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davivarella-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Davizuks/Davizuks/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Davizukss/Davizukss/blob/output/github-contribution-grid-snake.svg)
  
 </div>
