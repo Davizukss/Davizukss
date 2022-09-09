@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Oiê! Eu sou o Davizukss</h1>
+<h1>Oiê! Eu sou o Davizukss😎</h1>
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Estudando Typescript e React.js
 - ⚡ Fato Divertido: Adoro a cor roxa 🟣
