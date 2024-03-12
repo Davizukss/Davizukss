@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Oiê! Eu sou o Davizukss😎</h1>
 - 🔭 Atualmente trabalho com Moblie
-- 🌱 Estudando React.js e React.Native
+- 🌱 Estudando Kotlin e Swift
 - ⚡ Fato Divertido: Adoro a cor roxa 🟣-
 </div><br>
 
