@@ -10,7 +10,7 @@
 ## 🚀 Minhas Skills
 
 <div align="center">
-  <a href="https://github.com/davizukss" style="display: inline_block">
+  <a href="https://github.com/davizukss">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40">
@@ -22,7 +22,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" width="40">
-  </a>
 </div>
 
 <br>
