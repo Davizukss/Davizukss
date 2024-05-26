@@ -25,10 +25,17 @@
 
 <br>
 
+## 🌟 Destaques
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/Davizukss/ProfessorFighter/assets/contribution-graph.svg" alt="Gráfico de Contribuições" width="80%">
+</div>
+
+<br>
+
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davizukss&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizukss&layout=compact&theme=radical" alt="Linguagens mais usadas" width="49%"/>
 </div>
 
