@@ -25,10 +25,11 @@
 
 <br>
 
-## 🌟 Destaques
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/Davizukss/ProfessorFighter/assets/contribution-graph.svg" alt="Gráfico de Contribuições" width="80%">
+  <h2>ProfessorFighter</h2>
+  <a href="https://github.com/Davizukss/ProfessorFighter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davizukss&repo=ProfessorFighter&theme=radical" alt="ProfessorFighter" />
+  </a>
 </div>
 
 <br>
