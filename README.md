@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davizukss&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p><br>
+</p>
 
  ### Minhas Redes Sociais
 <div> 
