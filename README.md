@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Oi! Eu sou o Davizukss 😎</h1>
-  <p>- 🔭 Atualmente trabalho desenvolvendo soluções Mobile</p>
-  <p>- 🌱 Aprendendo mais sobre Kotlin e Swift</p>
-  <p>- ⚡ Fato Divertido: Adoro a cor roxa 🟣</p>
+<h1>Oi! Eu sou o Davizukss😎</h1>
+- 🔭 Atualmente trabalho desenvolvendo soluções Moblie
+- 🌱 Aprendendo mais sobre Kotlin e Swift
+- ⚡ Fato Divertido: Adoro a cor roxa 🟣-
 </div>
 
 <br>
