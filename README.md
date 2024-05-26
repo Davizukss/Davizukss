@@ -10,7 +10,7 @@
 ## 🚀 Minhas Skills
 
 <div align="center">
-  <a href="https://github.com/davizukss" style="text-decoration:none;">
+  <a href="https://github.com/davizukss" style=text-decoration:none;>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40">
