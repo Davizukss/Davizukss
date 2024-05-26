@@ -14,6 +14,14 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+ ##
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davizukss&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davizukss&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+</p>
 
   ##
  ### Minhas Redes Sociais
