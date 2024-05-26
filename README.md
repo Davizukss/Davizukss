@@ -25,19 +25,20 @@
 
 <br>
 
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizukss&layout=compact&theme=radical" alt="Linguagens mais usadas" width="49%"/>
+</div>
+
+<br>
+## 🌟 Destaques
+
 <div align="center">
   <h2>ProfessorFighter</h2>
   <a href="https://github.com/Davizukss/ProfessorFighter" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davizukss&repo=ProfessorFighter&theme=radical" alt="ProfessorFighter" />
   </a>
-</div>
-
-<br>
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizukss&layout=compact&theme=radical" alt="Linguagens mais usadas" width="49%"/>
 </div>
 
 <br>
