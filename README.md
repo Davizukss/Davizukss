@@ -37,10 +37,7 @@ data class AboutMe(
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40">
 </div>
-<br>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&cover_image=true&theme=novatorem&show_offline=false&background_color=000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
-</a>
+
 <br>
 
 ## 🌐 Minhas Redes Sociais
@@ -59,3 +56,11 @@ data class AboutMe(
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+<br>
+
+## 🎧 O que eu mais gosto de escutar
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&cover_image=true&theme=novatorem&show_offline=false&background_color=000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
+</a>
+<br>
