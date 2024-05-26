@@ -16,7 +16,7 @@
 </div><br>
     
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davizukss&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davizukss&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
