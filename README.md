@@ -39,9 +39,8 @@ data class AboutMe(
 </div>
 <br>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xpxag2vrv2jhiufbogqwf56b6a&cover_image=true&theme=novatorem&show_offline=false&background_color=000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
 </a>
-<br>
 <br>
 
 ## 🌐 Minhas Redes Sociais
