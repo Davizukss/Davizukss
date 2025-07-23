@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=2000&color=6C0AD9&center=true&vCenter=true&width=450&lines=Eai%2C+eu+sou+Davi+Varella!+%F0%9F%91%8B;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=2000&color=6C0AD9&center=true&vCenter=true&width=450&lines=Hi+there%2C+I'm+Davi+Varella!+%F0%9F%91%8B;" alt="Typing SVG" />
 </div>
 
 ```python
@@ -10,13 +10,13 @@ class DaviVarella:
             "PostgreSQL", "Docker", "AWS", "Terraform",
             "CI/CD", "SQS", "Microserviços"
         ]
-        self.fun_fact = "Viciado em resolver problemas"
+        self.fun_fact = "Addicted to solving complex problems"
 
     def work(self):
-        return "🔭 Estudando e construindo soluções para o mercado financeiro"
+        return "🔭 Studying and building solutions for the financial market"
 
     def learning(self):
-        return "🌱 Aprofundando em mensageria, DevOps, CI/CD e escalabilidade"
+        return "🌱 Diving deeper into messaging systems, DevOps, CI/CD, and scalability"
 
     def __str__(self):
         return f"{self.work()}\n{self.learning()}\n >🚀🦄{self.fun_fact}"
@@ -25,7 +25,7 @@ print(DaviVarella())
 
 ```
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40">
@@ -46,7 +46,7 @@ print(DaviVarella())
 
 <br>
 
-## 📫 Onde me encontrar
+## 📫 Where to find me
 
 <div align="center"> 
   <a href="https://instagram.com/davizuks" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
