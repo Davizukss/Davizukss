@@ -16,7 +16,7 @@ class DaviVarella:
         return "🔭 Studying and building solutions for the financial market"
 
     def learning(self):
-        return "🌱 Diving deeper into messaging systems, DevOps, CI/CD, and scalability"
+        return "🌱 Diving deeper into messaging systems, CI/CD, and scalability"
 
     def __str__(self):
         return f"{self.work()}\n{self.learning()}\n >🚀🦄{self.fun_fact}"
